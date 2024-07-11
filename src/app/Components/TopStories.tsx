@@ -12,7 +12,7 @@ const TopStories = () => {
                     height={800}
                 />
             </div>
-            <div className='pl-2'><b>What is Lorem</b> Ipsum why do we use it where does it "sed ut perpciatis unde</div>
+            <div className='pl-2'><b>What is Lorem</b> Ipsum why do we use it where does it sed ut perpciatis unde</div>
         </div>
     )
 }
